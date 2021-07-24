@@ -4,8 +4,8 @@
       "quality": 1
    },
     "loader": {
-      "info": "href = info.md",
-      "timeline": "https://vikusviewer.fh-potsdam.de/data/vangogh/timeline.csv",
+      "info": "data/info.md",
+      "timeline": "data/timeline.csv",
       "items": "https://vikusviewer.fh-potsdam.de/data/vangogh/data.csv",
       "tsne": "https://vikusviewer.fh-potsdam.de/data/vangogh/tsne.csv",
       "textures": {
