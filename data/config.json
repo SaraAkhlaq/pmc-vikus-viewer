@@ -6,20 +6,20 @@
     "loader": {
       "info": "data/info.md",
       "timeline": "data/timeline.csv",
-      "items": "https://vikusviewer.fh-potsdam.de/data/vangogh/data.csv",
+      "items": "data/data.csv",
       "tsne": "https://vikusviewer.fh-potsdam.de/data/vangogh/tsne.csv",
       "textures": {
         "medium": {
           "size": 256,
-          "url": "https://vikusviewer.fh-potsdam.de/data/vangogh/sprites/web_web_full.json"
+          "url": "data/images/sprites/spritesheet.json"
         },
         "detail": {
           "size": 1024,
-          "url": "https://vikusviewer.fh-potsdam.de/data/vangogh/1024/"
+          "url": "data/images/1024/"
         },
         "big": {
           "size": 4096,
-          "url": "https://vikusviewer.fh-potsdam.de/data/vangogh/4096/"
+          "url": "data/images/4096/"
         }
       }
     },
