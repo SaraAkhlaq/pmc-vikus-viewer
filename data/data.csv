@@ -220,7 +220,7 @@ keywords,id,year,_title,_material,_dimension,_inscription,_provenance
 "painting, british landscape",PA-F00918-0039,1964,A Bird's View Of Charlecote,Oil on canvas,57 x 60 inches,,Charlecote Park
 "painting, british landscape",PA-F00918-0047,1985,View Of Claremont,,,,Private Collection
 "watercolour, british landscape, miniature",PA-F00918-0091,1977,View In Derbyshire,Watercolour,0. 082 x 0. 120 (3 1/4 x 4 3/4 inches ),,Coles bequest 1954 to A. Paul Oppé (1878–1957); D. L. T. Oppé (no no. )
-"drawing, british landscape",PA-F00918-0111,1977,"Downton Castle, Salop","Pen, brown ink and grey wash",0. 266 x 0. 400 (10 1/2 x 15 3/4 inches ),,"Sotheby's, 19 March 1947 (67) D. L. T. Oppé (2330)"
+"drawing, british landscape, , grey wash",PA-F00918-0111,1977,"Downton Castle, Salop","Pen, brown ink and grey wash",0. 266 x 0. 400 (10 1/2 x 15 3/4 inches ),,"Sotheby's, 19 March 1947 (67) D. L. T. Oppé (2330)"
 "painting, group portrait, male portrait",PA-F00910-0017,1974,Conversation Piece,,0. 700 x 0. 900 (27 1/2 x 35 1/2 inches ),,"Mrs Noel Whittingham, Old Hall, Bramham, her sale, Henry Spencer & Sons, 25 February 1976 (270)"
 "painting, group portrait, female portrait",PA-F00912-0005,1964,Lady Jane Matthew And Her Daughters Ra 1964 (230),Oil on canvas,35 5/8 x 35 3/4 inches,,Paul Mellon (1907–1999)
 "painting, group portrait, female portrait, male portrait",PA-F00912-0009,1972,"Lord Chancellor, Lord North (Aged 80) And His Wife (Aged 79)",,,,"The National Trust, The Vyne. (Sir Charles Chute, 1956)"
@@ -284,14 +284,14 @@ keywords,id,year,_title,_material,_dimension,_inscription,_provenance
 "painting, british landscape, miniature",PA-F00918-0095,1977,View In Derbyshire,Watercolour,0. 082 x 0. 120 (3 1/4 x 4 3/4 inches ),,Coles bequest 1954 to A. Paul Oppé (1878–1957); D. L. T. Oppé (no no)
 "painting, british landscape, miniature",PA-F00918-0097,1977,View In Derbyshire,Watercolour,0. 082 x 0. 120 (3 1/4 x 4 3/4 inches ),,Coles bequest 1954 to A. Paul Oppé (1878–1957); D. L. T. Oppé (no no. )
 "painting, british landscape, miniature",PA-F00918-0109,1977,View In Derbyshire,Watercolour,0. 082 x 0. 120 (3 1/4 x 4 3/4 inches ),,Coles bequest 1954 to A. Paul Oppé (1878–1957); D. L. T. Oppé (no no)
-"painting, british landscape, miniature",PA-F00919-0041,1977,"Mistley Hall, Seat Of The Rt Hon Richard Rigby Esq",Pen and grey wash,0. 182 x 0. 280 (7 1/8 x 11 inches ),,A. Paul Oppé (1878–1957) 1919. D. L. T. Oppé (759)
+"painting, british landscape, miniature, grey wash",PA-F00919-0041,1977,"Mistley Hall, Seat Of The Rt Hon Richard Rigby Esq",Pen and grey wash,0. 182 x 0. 280 (7 1/8 x 11 inches ),,A. Paul Oppé (1878–1957) 1919. D. L. T. Oppé (759)
 "british landscape, drawing",PA-F00919-0043,1989,Michelham Priory,Pencil with traces of bodycolour,,,Private Collection (on loan to Michelham Priory)
 "painting, british landscape, miniature",PA-F00921-0049,1977,Cottage And Distant Views,Pen and bistre wash,0. 050 x 0. 158 (2 x 6 1/4 inches ),,A. Paul Oppé (1878–1957) 1924. D. L. T. Oppé (1684)
 "painting, seascape",PA-F00922-0025,1964,Seascape,,,,"Commander M. D. Joel, R. N."
 "drawing, male portrait",PA-F00923-0021,1977,Male Nude,Pen,,,A. Paul Oppé (1878–1957) 1922. D. L. T. Oppé (1505)
 "painting, watercolour, male portrait, female portrait, animal portrait, group portrait",PA-F00924-0017,1984,Two Children In An Interior,Watercolour,,,Private Collection
 "painting, watercolour, male portrait, female portrait, group portrait",PA-F00924-0025,1966,Two Children Asleep In A Wood,Oil on copper panel,12 x 15 inches,,Bonhams 3 November 1966 (107)
-"drawing, male portrait, group portrait",PA-F00925-0029,1977,Lord Burlington: A Caricature,Pen and grey wash,0. 172 x 0. 250 (6 3/4 x 9 7/8 inches ),,A. Paul Oppé (1878–1957) 1934. D. L. T. Oppé (2061)
+"drawing, male portrait, group portrait, , grey wash",PA-F00925-0029,1977,Lord Burlington: A Caricature,Pen and grey wash,0. 172 x 0. 250 (6 3/4 x 9 7/8 inches ),,A. Paul Oppé (1878–1957) 1934. D. L. T. Oppé (2061)
 "drawing, male portrait, group portrait, female portrait",PA-F00925-0037,1977,Grown Ladies Taught To Dance,Pen and washes,0. 292 x 0. 520 (11 1/2 x 20 1/2 inches ),,A. Paul Oppé (1878–1957) 1927. D. L. T. Oppé (1852)
 "drawing, group portrait, female portrait",PA-F00925-0045,1977,The Three Graces,Pen,0. 172 x 0. 146 (6 3/4 x 5 3/4 inches ),,A. Paul Oppé (1878–1957) 1921. D. L. T. Oppé (1106)
 "painting, male portrait, group portrait, historical event",PA-F00925-0059,1980,Historical Subject,,,,National Trust : Felbrigg Hall
@@ -310,8 +310,8 @@ keywords,id,year,_title,_material,_dimension,_inscription,_provenance
 "painting, foriegn landscape, watercolour",PA-F00920-0021,1974,Rome - Arco Di Giano And Arco Degli Argentari,Watercolour,0. 382 x 0. 521 (15 x 21 1/2 inches ),,"Private, London."
 "painting, foriegn landscape, watercolour",PA-F00920-0065,1977,Amptheatre Of Capua,Watercolour,0. 425 x 0. 660 (16 3/4 x 26 inches ),Inscribed: with title and Signed JB 1764,"sale, Puttick, 26 February 1918 (260) D. L. T. Oppé (544)"
 "painting, foriegn landscape",PA-F00920-0071,1970,House At Calcutta,,,,"Victoria Memorial, Calcutta"
-"drawing, miniature",PA-F00921-0029,1977,A College Crypt,Pen and grey wash,0. 150 x 0. 146 (5 7/8 x 5 3/4 inches ),,A. Paul Oppé (1878–1957) 1925. D. L. T. Oppé (1781b)
-"painting, foriegn landscape",PA-F00921-0031,1976,A Ruined Castle On A Hill,Grey wash,0. 219 x 0. 273 (8 5/8 x 10 3/4 inches ),Inscribed: By John Martin 1837,"Anonymous sale, Christie's, 12 October 1976 (65)"
+"drawing, miniature, grey wash",PA-F00921-0029,1977,A College Crypt,Pen and grey wash,0. 150 x 0. 146 (5 7/8 x 5 3/4 inches ),,A. Paul Oppé (1878–1957) 1925. D. L. T. Oppé (1781b)
+"painting, foriegn landscape, grey wash",PA-F00921-0031,1976,A Ruined Castle On A Hill,Grey wash,0. 219 x 0. 273 (8 5/8 x 10 3/4 inches ),Inscribed: By John Martin 1837,"Anonymous sale, Christie's, 12 October 1976 (65)"
 "painting, foriegn landscape, watercolour",PA-F00921-0045,1977,Park Scene With Boy,Watercolour,0. 272 x 380 (10 7/8 x 15 inches ),,"sale Fosters 26 October 1921, bought A. Paul Oppé (1878–1957); D. L. T. Oppé (1377)"
 "painting, foriegn landscape, watercolour, miniature",PA-F00921-0051,1977,Hill Between Two Clumps Of Trees,Pen and bistre wash,0. 047 x 0. 170 (1 7/8 x 6 3/8 inches ),,A. Paul Oppé (1878–1957) 1924. D. L. T. Oppé (1684)
 "drawing, male portrait",PA-F00923-0031,1977,Nude Male Figure,Pencil on washed paper,0. 330 x 0. 235 (13 x 9 1/4 inches ),,A. Paul Oppé (1878–1957) 1919. D. L. T. Oppé (751)
@@ -335,7 +335,7 @@ keywords,id,year,_title,_material,_dimension,_inscription,_provenance
 "drawing, british landscape, miniature",PA-F00919-0025,1977,Loch Ness From Dores,Pen and slight wash,0. 200 x 0. 262 (7 3/8 x 10 3/8 inches ),,"N. C. Green, given 1949 to A. Paul Oppé (1878–1957); D. L. T. Oppé (2377)"
 "painting, british landscape",PA-F00919-0033,1973,"Sir John Tregonwell (D1565) Of Milton Abbey, Dorset, Master In Chancery, And Mp",,,"Engraving from Dr Robert Thornton""s Antiquities of Nottingham (1677)",Print in BM. Old Cromm. Topography of Nottingham. Plan press 65
 "painting, british landscape",PA-F00919-0061,1964,Covent Garden From The South East,,44 1/2 x 101 1/4 inches,,Earl of Pembroke & Montgomery
-"drawing, british landscape, miniature",PA-F00920-0015,1977,Temple Of The Sybil At Tivoli,Pen and grey wash,0. 138 x 0. 180 (5 3/8 x 7 1/8 inches ),,"Platt sale, Putticks, 1920, bought A. Paul Oppé (1878–1957); D. L. T. Oppé (871)"
+"drawing, british landscape, miniature, grey wash",PA-F00920-0015,1977,Temple Of The Sybil At Tivoli,Pen and grey wash,0. 138 x 0. 180 (5 3/8 x 7 1/8 inches ),,"Platt sale, Putticks, 1920, bought A. Paul Oppé (1878–1957); D. L. T. Oppé (871)"
 "drawing, british landscape",PA-F00920-0025,1974,A View Of A Hill Town Possibly In North Africa With A Row Of Cannons In The Foreground,Watercolour,0. 508 x 0. 762 (20 x 30 inches ),,"Anonymous sale, Christie's, 17/18 January 1974 (53), bought Perman"
 "painting, foriegn landscape",PA-F00920-0053,1970,"British Residency, Hyderabad",,,,"Victoria Memorial, Calcutta (982)"
 "painting, foriegn landscape",PA-F00921-0017,1980,Unidentified Country House View,,0. 89 x 1. 22 (35 x 48 inches ),,Thomas Sainsbury
@@ -348,7 +348,7 @@ keywords,id,year,_title,_material,_dimension,_inscription,_provenance
 "painting, watercolour, female portrait",PA-F00923-0039,1977,Head From Filippo Lippi's coronation Of The Virgin,Watercolour,0. 252 x 0. 178 (10 x 7 inches ),,D. L. T. Oppé (no no. )
 "drawing, female portrait",PA-F00923-0047,1977,Child Feeding Chickens,Pencil,0. 360 x 0. 248 (14 1/8 x 9 3/4 inches ),,"Reading 1913, bought A. Paul Oppé (1878–1957); D. L. T. Oppé (300)"
 "drawing, female portrait",PA-F00923-0055,1977,Female Nude,Black and white chalk on brown paper,,,D. L. T. Oppé (1896b)
-"painting, group portrait, male portrait, female portrait",PA-F00925-0035,1972,Swearing A Child To A Victim,Pen and black ink and grey wash,0. 264 x 0. 346 (10 3/8 x 5/8 inches ),,"Dr. J. Percy. Christie's, 15-18 April 1890 (589) Anonymous sale, Christie's, 7 November 1972 (63), bought Sabin Galleries, London"
+"painting, group portrait, male portrait, female portrait, grey wash",PA-F00925-0035,1972,Swearing A Child To A Victim,Pen and black ink and grey wash,0. 264 x 0. 346 (10 3/8 x 5/8 inches ),,"Dr. J. Percy. Christie's, 15-18 April 1890 (589) Anonymous sale, Christie's, 7 November 1972 (63), bought Sabin Galleries, London"
 "drawing, group portrait, male portrait",PA-F00925-0039,1977,Two Men Playing Backgammon,Pen over pencil,0. 152 x 0. 220 (6 x 8 5/8 inches ),,Lord Warwick. Randall Davies. A. Paul Oppé (1878–1957) 1947; D. L. T. Oppé (2328)
 "drawing, group portrait, male portrait",PA-F00925-0043,1977,Six Heads,Pencil,0. 305 x 0. 242 (12 x 9 1/2 inches ),,A. Paul Oppé (1878–1957) 1921. D. L. T. Oppé (1376)
 "drawing, female portrait",PA-F00914-0003,1986,Lady Rebecca Herbert Lady Abergavenny 1732,,,,Hove Museum and Art Gallery
@@ -377,13 +377,13 @@ keywords,id,year,_title,_material,_dimension,_inscription,_provenance
 "painting, female portrait",PA-F00917-0077,1979,Unknown Lady,Pastel,,,Lord Brownlow
 "painting, british landscape",PA-F00918-0021,1964,detail From 'a View Of Bath',,,,Earl of Bessborough
 "painting, british landscape, watercolour",PA-F00918-0023,1984,Park At Bayham Abbey With Woodland,Watercolour,,,Private Collection
-"painting, british landscape, watercolour",PA-F00920-0033,1977,A Moorish Mosque Or Fort,Watercolour,0. 155 x 0. 102 (6 1/8 x 4 inches ),,A. Paul Oppé (1878–1957) 1924. D. L. T. Oppé (1684)
+"drawing, historical event, group portrait",PA-F00920-0033,1977,A Moorish Mosque Or Fort,Watercolour,0. 155 x 0. 102 (6 1/8 x 4 inches ),,A. Paul Oppé (1878–1957) 1924. D. L. T. Oppé (1684)
 "drawing, foriegn landscape",PA-F00920-0057,1977,A French Church With Square Tower,Pencil on brown paper,0. 146 x 0. 204 (5 3/4 x 8 1/4 inches ),,A. Paul Oppé (1878–1957) 1921. D. L. T. Oppé (1117)
 "painting, british landscape, watercolour",PA-F00920-0061,1977,"Charmettes, Chambery, Sep 22 1871",Watercolour,0. 068 x 0. 118 (2 5/8 x 4 5/8 inches ),,A. Paul Oppé (1878–1957) 1913. D. L. T. Oppé (187a)
 "painting, foriegn landscape",PA-F00921-0019,1976,A View Of An Archway,,,,"Anonymous sale, Christie's, 2 March 1976 (11/2)"
-"painting, foriegn landscape",PA-F00921-0027,1977,"A Pool Among Rocks, May 1802",Grey wash,0. 222 x 0. 322 (8 3/4 x 12 3/4 inches ),,D. L. T. Oppé (279)
-"painting, foriegn landscape, miniature",PA-F00921-0047,1977,Figures In A Mountainous Landscape,Grey wash,0. 108 x 0. 135 (4 1/4 x 5 1/4 inches ),,A. Paul Oppé (1878–1957) 1925. D. L. T. Oppé (1780)
-"painting, foriegn landscape, miniature",PA-F00921-0053,1977,"Trees, Lake And Distant Mountains",Grey wash,0. 108 x 0. 135 (4 1/4 x 5 1/4 inches ),,A. Paul Oppé (1878–1957) 1925. D. L. T. Oppé (1780)
+"painting, foriegn landscape, grey wash",PA-F00921-0027,1977,"A Pool Among Rocks, May 1802",Grey wash,0. 222 x 0. 322 (8 3/4 x 12 3/4 inches ),,D. L. T. Oppé (279)
+"painting, foriegn landscape, miniature, grey wash",PA-F00921-0047,1977,Figures In A Mountainous Landscape,Grey wash,0. 108 x 0. 135 (4 1/4 x 5 1/4 inches ),,A. Paul Oppé (1878–1957) 1925. D. L. T. Oppé (1780)
+"painting, foriegn landscape, miniature, grey wash",PA-F00921-0053,1977,"Trees, Lake And Distant Mountains",Grey wash,0. 108 x 0. 135 (4 1/4 x 5 1/4 inches ),,A. Paul Oppé (1878–1957) 1925. D. L. T. Oppé (1780)
 "painting, seascape, watercolour",PA-F00922-0011,1977,Span Of An Aqueduct Over An Estuary,Watercolour,0. 132 x 0. 165 (5 1/4 x 6 1/2 inches ),,A. Paul Oppé (1878–1957) 1921. D. L. T. Oppé (1203)
 "painting, seascape",PA-F00922-0021,1974,A Ship Off A Coast (An Indiaman),,0. 305 x 0. 413 (12 x 16 1/4 inches ),,Mrs Watson. Private Collection.
 "drawing, male portrait, animal portrait, landscape",PA-F00923-0007,1977,A French Cavalryman,Black chalk on buff paper,0. 130 x 0. 196 (5 1/8 x 7 3/4 inches ),,A. Paul Oppé (1878–1957) 1930. D. L. T. Oppé (no non. )
@@ -499,8 +499,8 @@ female portrait,PA-F00927-0029,1969,"Virgo Persica From J J Boissard, Habitus Va
 "painting, foriegn landscape, miniature, watercolour",PA-F00920-0043,1977,Louvain,Watercolour,0. 078 x 0. 135 (3 1/8 x 5 3/8 inches ),Signed T. S. And Inscribed: Louvain,Coles bequest 1954 to A. Paul Oppé (1878–1957). Colle: D. L. T. Oppé (no no)
 "drawing, foriegn landscape, miniature",PA-F00920-0059,1977,View Of A French Town,Pencil,0. 206 x 0. 146 (8 1/8 x 5 3/4 inches ),,A. Paul Oppé (1878–1957) 1921. D. L. T. Oppé (1118)
 "painting, foriegn landscape",PA-F00920-0075,1973,Said To Be A View Of Bruges,,1. 016 x 1. 270; (40 x 50 inches),,"Painted for Chief Justice Carter as an overmantle for Chilton House ca. 1747. By Descent From Lady Aubrey-Fletcher's fa, ily. Sir John Aubrey-Fletcher, Bart. Chilton Gate House, Chilton, Bucks."
-"painting, landscape, miniature",PA-F00921-0023,1977,A Cottage,"Pencil, grey wash",0. 118 x 0. 185 (4 5/8 x 7 1/4 inches ),,A. Paul Oppé (1878–1957) 1921. D. L. T. Oppé (1116)
-"drawing, foriegn landscape, miniature",PA-F00921-0061,1977,A Ruin 1692,Pen and grey wash,0. 115 x 0. 165 (4 1/2 x 6 1/2 inches ),,A. Paul Oppé (1878–1957) 1925. D. L. T. Oppé (1781a)
+"painting, landscape, miniature, grey wash",PA-F00921-0023,1977,A Cottage,"Pencil, grey wash",0. 118 x 0. 185 (4 5/8 x 7 1/4 inches ),,A. Paul Oppé (1878–1957) 1921. D. L. T. Oppé (1116)
+"drawing, foriegn landscape, miniature, grey wash",PA-F00921-0061,1977,A Ruin 1692,Pen and grey wash,0. 115 x 0. 165 (4 1/2 x 6 1/2 inches ),,A. Paul Oppé (1878–1957) 1925. D. L. T. Oppé (1781a)
 "painting, landscape, seascape",PA-F00922-0015,1970-1971,Old Fort And River Bank,,,,"Victoria Memorial, Calcutta"
 "drawing, male portrait, miniature",PA-F00923-0011,1977,Standing Male Nude,Pen and black chalk,0. 152 x 0. 108 (6 x 4 1/4 inches ),,D. L. T. Oppé (no no. )
 "drawing, male portrait",PA-F00923-0013,1977,Male Nude,Pen,,,A. Paul Oppé (1878–1957) 1922. D. L. T. Oppé (1505)
@@ -508,6 +508,6 @@ female portrait,PA-F00927-0029,1969,"Virgo Persica From J J Boissard, Habitus Va
 "drawing, group portrait, miniature",PA-F00925-0011,1977,Three Beggars,Pen,0. 290 x 0. 240 (7 1/8 x 9 3/8 inches ),,A. Paul Oppé (1878–1957) 1921. D. L. T. Oppé (1330)
 "painting, allegory, group portrait",PA-F00925-0025,1972,Time Delivering Truth From Anger And Envy,,,,"Private Collection, Ven House, Somerset"
 "drawing, miniature, group portrait",PA-F00925-0041,1977,Figures Dancing Or Brawling,Pencil,0. 118 x 0. 158 (4 3/8 x 6 1/4 inches ),,D. L. T. Oppé (no no. )
-"greywash, drawing, historical event, group portrait",PA-F00925-0063,1977,Historical Scene,Pen and grey wash,0. 190 x 0. 112 (7 1/2 x 4 3/8 inches ),,A. Paul Oppé (1878–1957); D. L. T. Oppé (1154)
+"grey wash, drawing, historical event, group portrait",PA-F00925-0063,1977,Historical Scene,Pen and grey wash,0. 190 x 0. 112 (7 1/2 x 4 3/8 inches ),,A. Paul Oppé (1878–1957); D. L. T. Oppé (1154)
 "painting, historical event, foriegn landscape",PA-F00925-0091,1964,The Embarkation Of Henry VIII At Boulogne,,1. 689 x 3. 467 (66 1/2 x 135 3/4 inches ),,"First documented by Paymaster of the Works 1588-89 as in the Presence Chamber, Whitehall. Moved to First Privy Gallery, Greenwich. Commonwealth sale, 23 October 1651, bought Captain Stone. Returned to Crown at Restoration and placed in King's Privy Galler"
 "painting, male portrait",PA-F00927-0009,1993,"Isaac Bickerstaff, Esq",,,Engraving,British Museum
