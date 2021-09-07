@@ -44,14 +44,14 @@
     "detail": {
       "structure": [      
         {
-          "name": "Description",
-          "source": "_description",
+          "name": "Year",
+          "source": "_year",
           "display": "column",
           "type": "text"
         },
         {
-          "name": "Year",
-          "source": "_year",
+          "name": "Title",
+          "source": "_title",
           "display": "column",
           "type": "text"
         },
@@ -62,10 +62,22 @@
           "type": "text"
         },
         {
-          "name": "Dimensions",
-          "source": "column._width + 'mm * ' + column._height + 'mm'",
+          "name": "Dimension",
+          "source": "_dimension",
           "display": "column",
-          "type": "function"
+          "type": "text"
+        },
+        {
+          "name": "Inscription",
+          "source": "_inscription",
+          "display": "column",
+          "type": "text"
+        },
+        {
+          "name": "Provenance",
+          "source": "_provenance",
+          "display": "column",
+          "type": "text"
         },
         {
           "name": "Keywords",
